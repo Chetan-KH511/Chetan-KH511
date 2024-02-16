@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chetan</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [Note-Taking-App](https://github.com/Chetan-KH511/Note-Taking-App)
-
-- 🌱 I’m currently learning **Kotlin,**
+- 🌱 I’m currently learning **Kotlin,Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chetan-KH511](https://github.com/Chetan-KH511)
 

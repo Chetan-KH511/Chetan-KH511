@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Kotlin, Flutter, Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Chetan-KH511](https://github.com/Chetan-KH511)
-
 - 💬 Ask me about **Android Development and APIs**
 
 - ⚡ Fun fact **Cats Have Been to space**
